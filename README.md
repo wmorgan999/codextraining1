@@ -19,6 +19,8 @@ By the end of the training, learners can:
 - Validate and map file records into Java objects.
 - Load valid records into a PostgreSQL table using JDBC.
 - Use Codex to diagnose errors and improve code quality.
+- Add this line
+
 
 ## Program Structure
 
