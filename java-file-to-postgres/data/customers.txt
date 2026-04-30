@@ -1,0 +1,7 @@
+id|full_name|email|signup_date|account_balance
+1001|Ada Lovelace|ada@example.com|2025-01-15|125.50
+1002|Grace Hopper|grace@example.com|2025-02-20|300.00
+1003|Katherine Johnson|katherine@example.com|2025-03-05|50.25
+bad-id|Invalid Person|invalid@example.com|2025-03-10|42.00
+1004|No Email||2025-03-11|10.00
+
